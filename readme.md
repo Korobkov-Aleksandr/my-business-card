@@ -1,3 +1,3 @@
-# Gin and Github cource
+# Git and Github cource
 
 git git git
