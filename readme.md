@@ -1,3 +1,3 @@
-# Git and Github cource
+# HTML and CSS and Git and Github cource
 
-git git git
+HTML CSS Git GitHub
